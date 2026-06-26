@@ -1,0 +1,5 @@
+# qgis-plugin-ci configuration
+# See https://opengisch.github.io/qgis-plugin-ci/
+plugin_path: calc_beiral
+github_organization_slug: stephanycf
+project_slug: calc_beiral
